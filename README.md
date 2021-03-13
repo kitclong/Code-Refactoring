@@ -11,4 +11,4 @@ This is a full page screenshot of what the site should look:
 
 https://kitclong.github.io/homework-01-KL/Main/index.html
 
-![Screenshot of page](screenshot.png)
+![Screenshot of page](web-screenshot.png)
