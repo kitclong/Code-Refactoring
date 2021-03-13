@@ -1,6 +1,6 @@
 # Homework-01-KL
 
-###About the homework:
+## About the homework:
 
 ![Screenshot of page](web-screenshot.png)
 
@@ -11,21 +11,21 @@
   3. Push refactored code to the new repository. 
   4. Create/deploy a GitHub pages with the content pushed.
 
-###Built With: 
+## Built With: 
 
-  *HTML
-  *CSS
+  * HTML
+  * CSS
 
-###Use: 
+## Use: 
 
   Used to practice building a website/business page layout. This was mainly to showcase a digital marketing website.
   
-###Contact:
+## Contact:
   
   Homework link: https://github.com/kitclong/Homework-01-KL
   
-###Acknowledgments:
+## Acknowledgments:
 
-  *Github
-  *Github Pages
-  *Trilogy Education Services
+  * Github
+  * Github Pages
+  * Trilogy Education Services
