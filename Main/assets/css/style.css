@@ -1,3 +1,4 @@
+/* Global attributes */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -17,6 +18,7 @@ p {
     font-size: 16px;
 }
 
+/* Header attributes */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -53,7 +55,10 @@ p {
     background-position: center;
 }
 
-/* Consolidated the section under one 'content' attribute */
+/* 
+    Content attributes
+    Consolidated the section under one 'content' attribute 
+*/
 .content {
     width: 75%;
     display: inline-block;
@@ -88,7 +93,10 @@ p {
     margin-left: 25px;
 }
 
-/* Consolidated the section under 'benefits' attribute */
+/* 
+    Benefits attribute
+    Consolidated the section under 'benefits' attribute
+ */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,6 +124,7 @@ p {
     max-width: 150px;
 }
 
+/* Footer attribute */
 .footer {
     padding: 30px;
     clear: both;
