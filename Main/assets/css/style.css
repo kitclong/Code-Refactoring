@@ -26,15 +26,17 @@ p {
     color: #ffffff;
 }
 
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
     color: #ffffff;
 }
 
-header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
+
 
 .header div {
     padding-top: 15px;
