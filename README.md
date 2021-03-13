@@ -2,14 +2,14 @@
 
 ## About the homework:
 
-![Screenshot of page](web-screenshot.png)
-
   The purpose of this homework was to begin learning how to:
 
   1. Refactor code.
   2. Create a git repository.
   3. Push refactored code to the new repository. 
   4. Create/deploy a GitHub pages with the content pushed.
+
+![Screenshot of page](web-screenshot.png)
 
 ## Built With: 
 
@@ -23,6 +23,7 @@
 ## Contact:
   
   Homework link: https://github.com/kitclong/Homework-01-KL
+  GitHub Pages: 
   
 ## Acknowledgments:
 
