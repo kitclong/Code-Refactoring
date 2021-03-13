@@ -22,8 +22,8 @@
   
 ## Contact:
   
-  Homework link: https://github.com/kitclong/Homework-01-KL
-  GitHub Pages: https://kitclong.github.io/Homework-01-KL/
+  ### Homework link: https://github.com/kitclong/Homework-01-KL
+  ### GitHub Pages: https://kitclong.github.io/Homework-01-KL/
   
 ## Acknowledgments:
 
